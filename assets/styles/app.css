@@ -54,6 +54,9 @@ h5 {
 .navbar-brand {
   font-size: 2rem;
 }
+.navbar {
+  padding-bottom: 4.5rem;
+}
 
 .hash {
   background-color: #f1f3f4;

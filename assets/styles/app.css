@@ -282,6 +282,9 @@ li {
  border-color: rgb(243, 243, 243);
  border-style: ridge;
 }
+#chart-info {
+  padding: 7% 20%;
+}
 
 section {
   margin-top: 30px;

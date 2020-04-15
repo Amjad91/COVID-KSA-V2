@@ -302,7 +302,8 @@ section {
   height: 350px;
 }
 .type-card {
-  margin-top: 5px;
+ margin-top: 10px;
+  margin-bottom: 10px;
 }
 .app-info img {
   float: left;

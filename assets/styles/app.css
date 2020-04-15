@@ -351,14 +351,15 @@ display: inline-block;
 .info {
   font-size: 15px;
   margin: auto;
-  /* margin-right: 90px;
-  margin-left: 90px; */
-  width: 60%;
+  padding: 7% 10%;
   font-family: 'Tajawal', sans-serif;
   text-align: justify;
-  text-justify: inter-word;
+  text-justify: inter-cluster;
+  background-color: #f1efef;
+  
+}
+.info h4, h3 {
   text-align: right;
- 
 }
 .footer {
   background-color: #d1d5d6;

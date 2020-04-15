@@ -295,6 +295,15 @@ section {
   text-align: justify;
   text-justify: inter-word;
 }
+.card-title {
+  font-weight: bold;
+}
+.card-body {
+  height: 350px;
+}
+.type-card {
+  margin-top: 5px;
+}
 .app-info img {
   float: left;
   margin-right: 10px;

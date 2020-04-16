@@ -30,6 +30,7 @@ body {
   -webkit-margin-start: 0%;
   margin-top: 0px;
   margin-bottom: 0px;
+  overflow-x: hidden;
 }
 .header {
   font-size: 130%;

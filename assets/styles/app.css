@@ -119,26 +119,27 @@ text-align: center;
 .promo {
   width: 125px;
   height: 160px;
-  background:#fdfeff ;
-  color: #1e836c;
+  /* background:#fdfeff ; */
+  color: rgb(89, 130, 150);
   float: left;
-  box-shadow: 2px 2px 20px  rgba(243, 243, 243, 0.8);
+  /* box-shadow: 2px 2px 20px  rgba(243, 243, 243, 0.8); */
   margin: 1%;
-  border-radius: 10px;
+  /* border-radius: 10px; */
   font-size: 90%;
   position: relative;
-  border-width: 0.5%;
+  /* border-width: 0.5%;
   border-color: rgb(243, 243, 243);
-  border-style: dotted;
+  border-style: dotted; */
     /* opacity: 0.8; */
+
 }
 .promo1 {
   position: relative;
   width: 90%;
-  background: #fdfeff;
-  color: #1e836c;
+  /* background: #fdfeff; */
+  color: rgb(89, 130, 150);
   float: left;
-  box-shadow: 2px 2px 20px  rgba(241, 241, 241, 0.8);
+  /* box-shadow: 2px 2px 20px  rgba(241, 241, 241, 0.8); */
   margin: auto;
   margin-top: 30px;
   border-radius: 10px;
@@ -155,16 +156,16 @@ text-align: center;
   width: 115px;
   height: 130px;
   background: rgb(255, 255, 255) ;
-  color: #1e836c;
+  color: rgb(89, 130, 150);
   float: left;
   margin: 2%;
   padding: 0.4%;
   border-radius: 10px;
   opacity: 0.9;
   font-size: 90%;
-  border-width: 0.5%;
+  /* border-width: 0.5%;
   border-color: rgb(243, 243, 243);
-  border-style: dotted;
+  border-style: dotted; */
 }
 
 .deal {
@@ -181,7 +182,7 @@ text-align: center;
   display: block;
   text-align: center;
   position: relative;
-
+  
 }
 .deal span:first-of-type {
   font-size: 120%;
@@ -192,7 +193,7 @@ text-align: center;
 .promo .case {
   display: block;
   position: relative;
-  width: 50%;
+  width: 100%;
   background: #f2f3f3;
   margin: auto;
   text-align: center;
@@ -204,20 +205,23 @@ text-align: center;
   opacity: 0.9;
 
 }
-.promo1 .case1 {
+.promo2 .case {
   display: block;
-  width: 450px;
-  background: rgb(2, 54, 65);
-  margin: 100px 0 0px 50;
-  text-align: left;
-  font-size: 14px;
-  color: white;
-  padding: 20px 0px 0px 25px;
-  box-shadow: 0px 5px 20px  rgba(97, 96, 96, 0.8);
-  border-radius: 0px;
+  position: relative;
+  width: 100%;
+  background: #f2f3f3;
+  margin: auto;
+  text-align: center;
+  font-size: 120%;
+  color: #3b3b3b;
+  padding: 8px 0px 10px 5px;
+  /* box-shadow: 0px 5px 20px  rgba(209, 208, 208, 0.8); */
+  border-radius: 5px;
   opacity: 0.9;
+  margin-top: 10px;
 
 }
+
 
 #active_sa {
   width: 210px;
@@ -227,7 +231,7 @@ text-align: center;
   background: #4a595e;
   text-align: center;
   font-size: 100%;
-  color: #e4ebeb;
+  color: #fdfdfd;
   padding: 10px 5px 5px 10px;
   /* box-shadow: 0px 5px 20px  rgba(209, 208, 208, 0.8); */
   border-radius: 10px;
@@ -244,7 +248,7 @@ text-align: center;
   background: #ffffff;
   text-align: center;
   font-size: 100%;
-  color: #228567;
+  color: #4a595e;
   padding: 10px 5px 0px 10px;
   /* box-shadow: 0px 5px 20px  rgba(209, 208, 208, 0.8); */
   border-radius: 10px;
